@@ -1,0 +1,2 @@
+# Online-Food-Ordering-Delivery-Open-Source
+to Online food ordering system…It is way different than clasiec e-coomerce site or business…It is a cominication system that connects 10000 of hungry people with 1000 of restaurants similtaneousy and all cycle must be complated with in 30-45 min.. including order submition, order accept from restaurant …cooking…delivering….and customer support for delay orders and  restaurant menü, price updates …Very expensive  , high cost business….every thing must be done with in very limited time…with %100 accuracy…other wise you loose..
